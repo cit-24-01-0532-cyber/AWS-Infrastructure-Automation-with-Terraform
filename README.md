@@ -15,6 +15,10 @@ The infrastructure includes:
 * **Web Server:** Nginx
 * **OS:** Ubuntu
 
+## Screenshorts
+https://github.com/cit-24-01-0532-cyber/AWS-Infrastructure-Automation-with-Terraform/blob/main/Screenshot%202026-05-20%20095421.png
+https://github.com/cit-24-01-0532-cyber/AWS-Infrastructure-Automation-with-Terraform/blob/main/Screenshot%202026-05-20%20095200.png
+https://github.com/cit-24-01-0532-cyber/AWS-Infrastructure-Automation-with-Terraform/blob/main/Screenshot%202026-05-20%20095421.png
 
 ## 🚀 How to Run
 1. Clone the repository:
